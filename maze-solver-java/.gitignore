@@ -1,0 +1,7 @@
+echo "*.class
+*.jar
+.idea/
+out/
+OpenJDK-23/
+jdk/
+" > .gitignore
