@@ -1,7 +1,5 @@
 # 🚀 Maze Solver - Java Swing
 
-![Maze Solver Banner](https://user-images.githubusercontent.com/yourusername/your-screenshot.png)
-
 An interactive **Maze Generator & Solver** built with **Java Swing**.  
 Visualize how **BFS** and **DFS** algorithms find paths through mazes, step by step!
 
